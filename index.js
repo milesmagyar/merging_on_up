@@ -1,0 +1,1 @@
+This is the index file on server
